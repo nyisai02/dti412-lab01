@@ -5,7 +5,7 @@
 - **Full Name:** [Nyi Nyi Sai]
 - **Student ID:** [240702402336]
 - **Program:** [Python ,java ]
-- **Academic Year:** [third year]
+- **Academic Year:** [third yelllar]
 
 ## Technical Skills
 
